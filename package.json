@@ -30,8 +30,8 @@
   },
   "dependencies": {
     "@babbage/sdk": "^0.4.47",
-    "@babbage/sdk-ts": "^0.2.3",
-    "babbage-scrypt-helpers": "^1.0.5",
+    "@babbage/sdk-ts": "^0.2.4",
+    "babbage-scrypt-helpers": "^1.0.6",
     "dotenv": "^16.0.3",
     "scrypt-ts": "latest",
     "whatsonchain": "^0.3.0"
